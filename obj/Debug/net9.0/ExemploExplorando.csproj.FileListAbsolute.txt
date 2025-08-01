@@ -12,3 +12,4 @@ C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\refint\ExemploExplo
 C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
 C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
 C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.sourcelink.json

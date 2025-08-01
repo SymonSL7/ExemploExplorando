@@ -42,10 +42,11 @@ namespace ExemploExplorando.Models
         public void ListarAlunos()
         {
             Console.WriteLine($"Alunos Matriculados no {Nome}");
+            int contaAlunos = 0;
             foreach (Pessoa aluno in Alunos)
             {
-
-                Console.WriteLine(aluno.NomeCompleto);
+                contaAlunos++;
+                Console.WriteLine($"{contaAlunos}-Nº: {aluno.NomeCompleto}");
 
             }
 
