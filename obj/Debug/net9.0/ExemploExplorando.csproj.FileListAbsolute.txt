@@ -1,0 +1,14 @@
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.exe
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.deps.json
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.runtimeconfig.json
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.dll
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\bin\Debug\net9.0\ExemploExplorando.pdb
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.AssemblyInfo.cs
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.dll
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\refint\ExemploExplorando.dll
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.pdb
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ExemploExplorando.genruntimeconfig.cache
+C:\_GitHub\Dio\GFT-Start7\ExemploExplorando\obj\Debug\net9.0\ref\ExemploExplorando.dll
